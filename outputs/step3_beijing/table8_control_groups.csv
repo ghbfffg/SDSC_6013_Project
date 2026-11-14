@@ -1,0 +1,3 @@
+control_group,n_controls,cities,pre_R2,pre_adj_R2,avg_actual,avg_counterfactual,avg_effect,t_stat
+Paper's 7 cities,7,"Jilin, Yangzhou, Bengbu, Anqing, Pingdingshan, Xiangyang, Guilin",0.9967,0.9955,9.2789,16.9679,-7.6890,-3.8437
+CV(nv)-selected cities (ours),5,"Anqing, Bengbu, Changde, Guilin, Pingdingshan",0.9966,0.9958,9.2789,13.3612,-4.0823,-3.2681

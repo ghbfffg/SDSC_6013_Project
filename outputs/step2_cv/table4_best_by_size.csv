@@ -1,0 +1,12 @@
+n_cities,gamma,cities
+1,2.0629,Yangzhou
+2,1.1271,"Anqing, Changde"
+3,0.9558,"Beihai, Changde, Qinhuangdao"
+4,0.5687,"Anqing, Bengbu, Guilin, Pingdingshan"
+5,0.4634,"Anqing, Bengbu, Changde, Guilin, Pingdingshan"
+6,0.4948,"Anqing, Changde, Ganzhou, Guilin, Jiujiang, Yueyang"
+7,0.5978,"Anqing, Bengbu, Guilin, Jilin, Jiujiang, Pingdingshan, Yantai"
+8,0.7083,"Anqing, Bengbu, Guilin, Jilin, Pingdingshan, Tangshan, Yantai, Yueyang"
+9,0.9308,"Anqing, Bengbu, Guilin, Jilin, Jiujiang, Pingdingshan, Tangshan, Yangzhou, Yantai"
+10,1.6874,"Anqing, Bengbu, Ganzhou, Guilin, Jilin, Jiujiang, Pingdingshan, Qinhuangdao, Xiangyang, Yueyang"
+11,9.1599,"Anqing, Baotou, Bengbu, Changde, Luoyang, Pingdingshan, Qinhuangdao, Yangzhou, Yantai, Yichang, Yueyang"

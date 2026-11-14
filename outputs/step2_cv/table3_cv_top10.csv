@@ -1,0 +1,12 @@
+rank,gamma,n_cities,cities,note
+1,0.4634,5,"Anqing, Bengbu, Changde, Guilin, Pingdingshan",
+2,0.4782,5,"Anqing, Bengbu, Jiujiang, Yangzhou, Yueyang",
+3,0.4948,6,"Anqing, Changde, Ganzhou, Guilin, Jiujiang, Yueyang",
+4,0.4954,5,"Anqing, Guilin, Jilin, Pingdingshan, Xiangyang",
+5,0.5057,5,"Anqing, Bengbu, Guilin, Pingdingshan, Yantai",
+6,0.5228,6,"Anqing, Ganzhou, Guilin, Jilin, Jiujiang, Yueyang",
+7,0.5257,5,"Anqing, Guilin, Jilin, Pingdingshan, Yantai",
+8,0.5343,6,"Anqing, Bengbu, Guilin, Jilin, Pingdingshan, Yantai",
+9,0.5422,6,"Anqing, Bengbu, Guilin, Jilin, Pingdingshan, Xiangyang",
+10,0.5516,6,"Anqing, Bengbu, Guilin, Jining, Pingdingshan, Yantai",
+593,0.8725,7,"Anqing, Bengbu, Guilin, Jilin, Pingdingshan, Xiangyang, Yangzhou",paper's selection

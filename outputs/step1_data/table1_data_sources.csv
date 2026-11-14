@@ -1,0 +1,4 @@
+source,months_used,role,city_months_used
+EPS (2 exports),2008-01 ~ 2008-12,Early 2008; only source for these months,408
+CME quarterly file (monthly rows),2009-01 ~ 2009-02,Fills the gap between EPS and RERR,68
+RERR 70-city file,2009-03 ~ 2013-06,Main source; column ResidentIDX,1768
